@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HitchHike</string>
+    <string name="title">HitchHike</string>
+    <string name="login_title">Log in</string>
+    <string name="login_facebook">Log in with FaceBook</string>
+    <string name="login_email">Log in with Email</string>
+    <string name="login_create_account">Sign up</string>
 </resources>
