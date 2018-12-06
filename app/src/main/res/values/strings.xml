@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HitchHike</string>
+
+    <string name="action_search_text">Search</string>
+    <string name="account_settings_text">Account Settings</string>
+    <string name="action_home_text">Home</string>
+    <string name="action_logout_text">Logout</string>
 </resources>
