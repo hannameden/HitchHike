@@ -34,4 +34,5 @@ dependencies {
     //Git
     implementation 'de.hdodenhof:circleimageview:2.2.0'
     //api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
+    //https://github.com/ArthurHub/Android-Image-Cropper
 }
